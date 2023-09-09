@@ -15,6 +15,6 @@
 ### Contact me
 <div>
   <p align="left">
-  <a href="https://t.me/Froz10" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" width="106" height="36" alt="TELEGRAM" /></a>
+  <a href="https://t.me/Froz10" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" width="136" height="36" alt="TELEGRAM" /></a>
   <p align="left">
 </div>

@@ -13,10 +13,4 @@
 </p>
 
 ### Contact me
-<p align="left">
-<a href="https://t.me/Froz10" target="_blank">
-  <button>
-    <svg fill="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path d="M15 10l-4 4l6 6l4 -16l-18 7l4 2l2 6l3 -4"/></svg>
-  </button>
-</a>
-</p>
+<a href="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"

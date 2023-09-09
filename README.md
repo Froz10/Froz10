@@ -15,8 +15,8 @@
 ### Contact me
 <p align="left">
 <a href="https://t.me/Froz10" target="_blank">
-  <button class="bg-gray-100 text-blueGray-800 shadow-lg font-normal py-2 px-2 rounded text-gray-500 hover:bg-gray-200">
-    <svg class="w-6 h-6" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path d="M15 10l-4 4l6 6l4 -16l-18 7l4 2l2 6l3 -4"/></svg>
+  <button>
+    <svg fill="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path d="M15 10l-4 4l6 6l4 -16l-18 7l4 2l2 6l3 -4"/></svg>
   </button>
 </a>
 </p>

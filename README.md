@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Ivan.
 
 ### 🤖 Rails Engineer at [Okar](https://stage.okar.ru/) </br>
-<a href="https://rubyonrails.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white" width="120" height="36" alt="RAILS" /></a> 
+<a href="https://rubyonrails.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white" width="125" height="36" alt="RAILS" /></a> 
 
 ### My favorite technologies 
 <p align="left">
@@ -14,6 +14,6 @@
 ### Contact me
 <div>
   <p align="left">
-  <a href="https://t.me/Froz10" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" width="120" height="36" alt="TELEGRAM" /></a>
+  <a href="https://t.me/Froz10" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" width="125" height="36" alt="TELEGRAM" /></a>
   <p align="left">
 </div>

@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Ivan.
 
 ### 🤖 Rails Engineer at [Okar](https://stage.okar.ru/) </br>
-<a href="https://rubyonrails.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white" width="116" height="36" alt="RAILS" /></a> 
+<a href="https://rubyonrails.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white" width="117" height="36" alt="RAILS" /></a> 
 
 ### My favorite technologies 
 <p align="left">
